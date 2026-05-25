@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2d55" />
+      <stop offset="100%" stop-color="#ff6b00" />
+    </linearGradient>
+  </defs>
+  <image href="https://images.unsplash.com/photo-1610030469983-98e550d61dc0?w=1200&amp;q=80&amp;fit=crop" x="0" y="0" width="1100" height="900" preserveAspectRatio="xMidYMid slice" />
+  
+  <rect x="1000" y="0" width="1100" height="900" fill="url(#grad1)" />
+  <polygon points="900,0 1100,0 1000,900 800,900" fill="url(#grad1)" />
+  
+  <text x="1550" y="350" font-family="system-ui, sans-serif" font-size="70" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4">WOMEN'S ETHNIC</text>
+  <text x="1550" y="550" font-family="system-ui, sans-serif" font-size="180" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="-3">60% OFF</text>
+  
+  <rect x="1350" y="650" width="400" height="90" rx="45" fill="#ffffff" />
+  <text x="1550" y="710" font-family="system-ui, sans-serif" font-size="40" font-weight="900" fill="#ff2d55" text-anchor="middle">SHOP NOW</text>
+</svg>

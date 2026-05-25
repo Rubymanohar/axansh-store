@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" width="100%" height="100%">
+  <!-- Bright Pink Background -->
+  <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ff2d55" />
+    <stop offset="100%" stop-color="#d81b60" />
+  </linearGradient>
+  <rect width="2100" height="900" fill="url(#bg1)" />
+  
+  <!-- Subtle decorative circles -->
+  <circle cx="1050" cy="450" r="350" fill="#ffffff" opacity="0.1" />
+  <circle cx="1050" cy="450" r="550" fill="#ffffff" opacity="0.05" />
+
+  <text x="1050" y="280" font-family="system-ui, sans-serif" font-size="80" font-weight="900" fill="#ffd700" text-anchor="middle" letter-spacing="8">AXANSH PRESENTS</text>
+  <text x="1050" y="500" font-family="system-ui, sans-serif" font-size="180" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="-2" filter="drop-shadow(0px 10px 10px rgba(0,0,0,0.3))">BIG END OF SEASON SALE</text>
+  <text x="1050" y="660" font-family="system-ui, sans-serif" font-size="60" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="3">THE BIGGEST FASHION EVENT OF THE YEAR</text>
+  
+  <rect x="850" y="730" width="400" height="90" rx="45" fill="#ffd700" />
+  <text x="1050" y="790" font-family="system-ui, sans-serif" font-size="40" font-weight="900" fill="#d81b60" text-anchor="middle">SHOP NOW</text>
+</svg>

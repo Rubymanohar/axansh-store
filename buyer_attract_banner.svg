@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2d55" />
+      <stop offset="100%" stop-color="#ff6b00" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="15" stdDeviation="15" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <rect width="2100" height="900" fill="url(#bg)" />
+  
+  <!-- Decorative shapes -->
+  <circle cx="1800" cy="200" r="150" fill="#ffffff" opacity="0.1" />
+  <circle cx="300" cy="700" r="250" fill="#ffffff" opacity="0.1" />
+  <rect x="1600" y="600" width="100" height="100" fill="#FFE000" opacity="0.2" transform="rotate(45 1650 650)" />
+  <rect x="200" y="150" width="80" height="80" fill="#FFE000" opacity="0.2" transform="rotate(15 240 190)" />
+
+  <!-- Main Text -->
+  <text x="1050" y="420" font-family="'Inter', system-ui, sans-serif" font-size="220" font-weight="900" fill="#ffffff" text-anchor="middle" filter="url(#shadow)" letter-spacing="-5">MEGA SALE</text>
+  
+  <text x="1050" y="580" font-family="'Inter', system-ui, sans-serif" font-size="80" font-weight="900" fill="#FFE000" text-anchor="middle" letter-spacing="5">UP TO 80% OFF</text>
+  
+  <!-- Badge -->
+  <rect x="750" y="680" width="600" height="100" rx="50" fill="#ffffff" filter="url(#shadow)" />
+  <text x="1050" y="745" font-family="'Inter', system-ui, sans-serif" font-size="45" font-weight="800" fill="#ff2d55" text-anchor="middle" letter-spacing="2">FREE DELIVERY &amp; COD</text>
+  
+  <!-- Floating % signs -->
+  <text x="250" y="450" font-family="'Inter', system-ui, sans-serif" font-size="180" font-weight="900" fill="#ffffff" opacity="0.2" transform="rotate(-15 250 450)">%</text>
+  <text x="1850" y="650" font-family="'Inter', system-ui, sans-serif" font-size="220" font-weight="900" fill="#ffffff" opacity="0.2" transform="rotate(20 1850 650)">%</text>
+</svg>

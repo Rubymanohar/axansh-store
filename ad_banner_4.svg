@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c5ce7" />
+      <stop offset="100%" stop-color="#2d3436" />
+    </linearGradient>
+  </defs>
+  <image href="https://images.unsplash.com/photo-1523206489230-c012c64b2b48?w=1200&amp;q=80&amp;fit=crop" x="0" y="0" width="1100" height="900" preserveAspectRatio="xMidYMid slice" />
+  
+  <rect x="1000" y="0" width="1100" height="900" fill="url(#grad4)" />
+  <polygon points="900,0 1100,0 1000,900 800,900" fill="url(#grad4)" />
+  
+  <text x="1550" y="350" font-family="system-ui, sans-serif" font-size="70" font-weight="800" fill="#00cec9" text-anchor="middle" letter-spacing="4">FESTIVAL SALE</text>
+  <text x="1550" y="550" font-family="system-ui, sans-serif" font-size="140" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="-2">BIG PRICE DROP</text>
+  
+  <rect x="1350" y="650" width="400" height="90" rx="45" fill="#ffffff" />
+  <text x="1550" y="710" font-family="system-ui, sans-serif" font-size="40" font-weight="900" fill="#6c5ce7" text-anchor="middle">SHOP NOW</text>
+</svg>

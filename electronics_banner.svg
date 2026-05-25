@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgTech" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d3436" />
+      <stop offset="100%" stop-color="#6c5ce7" />
+    </linearGradient>
+    <filter id="shadowTech" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  
+  <rect width="2100" height="900" fill="url(#bgTech)" />
+  
+  <circle cx="1900" cy="150" r="200" fill="#00b894" opacity="0.3" filter="blur(20px)" />
+  <circle cx="200" cy="800" r="300" fill="#0984e3" opacity="0.3" filter="blur(30px)" />
+
+  <rect x="650" y="200" width="800" height="80" rx="40" fill="#ffffff" filter="url(#shadowTech)" />
+  <text x="1050" y="255" font-family="'Inter', system-ui, sans-serif" font-size="35" font-weight="800" fill="#2d3436" text-anchor="middle" letter-spacing="4">ELECTRONICS &amp; GADGETS</text>
+
+  <text x="1050" y="500" font-family="'Inter', system-ui, sans-serif" font-size="160" font-weight="900" fill="#ffffff" text-anchor="middle" filter="url(#shadowTech)" letter-spacing="-3">BIGGEST PRICE DROP</text>
+  
+  <text x="1050" y="660" font-family="'Inter', system-ui, sans-serif" font-size="60" font-weight="800" fill="#00cec9" text-anchor="middle" letter-spacing="4">MOBILES • AUDIO • SMARTWATCHES</text>
+  
+  <text x="1050" y="780" font-family="'Inter', system-ui, sans-serif" font-size="40" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="2">Top Brands at Wholesale Prices</text>
+</svg>
